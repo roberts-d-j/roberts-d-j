@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Dylan Roberts (he/him). I am a longtime audio engineer and aspiring programmer, with experience in many aspects of media production. I enjoy many creative pursuits, and I am excited for the future that coding will bring. I look forward to the potential applications that coding knowledge will bring to my personal and professional lives. 
+My name is Dylan Roberts (he/him). I am a longtime audio engineer and programmer, with experience in many aspects of media production. I enjoy many creative pursuits, and I am excited for the future that coding will bring. I look forward to the potential applications that coding knowledge will bring to my personal and professional lives. 
 
 I attended Tech Elevator's full stack coding bootcamp and graduated October 2023. I am currently a Technical Consultant working with SnowFox Solutions on the ServiceNow platform. 
 
-In addition to starting my developing journey, I have a long history creating music of myriad genres, and actively work on several other creative passions including an indie tabletop roleplaying game.
+In addition to software and web dev, I have a long history creating music of myriad genres, and actively work on several other creative passions including an indie tabletop roleplaying game.
